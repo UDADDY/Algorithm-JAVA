@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/No16926.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No1316.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No2103NotSolved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/No2103NotSolved.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.No16926">
+  <component name="RunManager">
     <configuration name="No1236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No1236" />
       <module name="Algorithm-JAVA" />
@@ -271,6 +271,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/No2003.java</url>
           <line>18</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
