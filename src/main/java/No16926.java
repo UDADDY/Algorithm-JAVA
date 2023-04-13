@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test {
+public class No16926 {
 
     // Global Variable
     static int[][] board;
