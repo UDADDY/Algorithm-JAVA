@@ -35,15 +35,6 @@ public class LinkedListQueue<E> {
 
         return ret;
     }
-
-//    public boolean empty() {
-//
-//    }
-//
-//    public int size() {
-//
-//    }
-
 }
 
 class LinkedListQueueNode<E> {
