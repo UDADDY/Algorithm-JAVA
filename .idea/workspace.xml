@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="20230414">
-      <change afterPath="$PROJECT_DIR$/src/main/java/No1043.java" afterDir="false" />
+    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="20230419">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No1043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/No1043.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +59,8 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DataStructure" />
       <recent name="" />
+      <recent name="DataStructure" />
     </key>
   </component>
   <component name="RunManager">
@@ -251,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681480343411</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="20230419">
+      <created>1681893165731</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681893165731</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,7 +275,8 @@
     <MESSAGE value="20230412" />
     <MESSAGE value="20230413" />
     <MESSAGE value="20230414" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230414" />
+    <MESSAGE value="20230419" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230419" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

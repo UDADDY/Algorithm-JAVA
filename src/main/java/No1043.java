@@ -3,7 +3,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Union-Find 이용
 public class No1043 {
+    // 노드들
     static int[] parent;
 
     public static void main(String[] args) throws IOException {
@@ -20,11 +22,12 @@ public class No1043 {
             return;
         }
 
-        //자신과 연결된 루트 노드를 설정
+        //자신과 연결된 루트 노드를 설정, 자기 번호에 자기 숫자롤 설정
         parent = new int[N + 1];
         for (int i = 1; i <= N; i++)
             parent[i] = i;
 
+        // 거짓말을 아는 사람은 true
         boolean[] truePeople;
         truePeople = new boolean[N + 1];
         for (int i = 0; i < truePeopleCnt; i++) {
@@ -32,6 +35,7 @@ public class No1043 {
             truePeople[num] = true;
         }
 
+        // 입력
         List<List<Integer>> partyList = new ArrayList<>();
         for (int i = 0; i < M; i++)
             partyList.add(new ArrayList<>());
@@ -41,7 +45,7 @@ public class No1043 {
             for (int j = 0; j < num; j++) {
                 partyList.get(i).add(sc.nextInt());
 
-                // 같이 파티에 참가한 사람 확인
+                // 같이 파티에 참가한 사람 확인, 자신과 전에 입력 받았던 사람과 union 같은 부모를 가짐 -> 파티에 같이 참석함을 알림
                 if (j != 0) {
                     int nowIdx = partyList.get(i).get(j);
                     int exIdx = partyList.get(i).get(j - 1);
