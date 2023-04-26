@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 1043 거짓말">
+    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 13335 트럭">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No13335NotSolved.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +269,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682487773246</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[BOJ] 13335 트럭">
+      <created>1682489859427</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682489859427</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[BOJ] 13335 트럭">
+      <created>1682489873019</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682489873019</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,7 +305,8 @@
     <MESSAGE value="20230414" />
     <MESSAGE value="20230419" />
     <MESSAGE value="[BOJ] 1043 거짓말" />
-    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 1043 거짓말" />
+    <MESSAGE value="[BOJ] 13335 트럭" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 13335 트럭" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
