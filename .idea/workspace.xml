@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 11286 절댓값 힙">
+    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 13335 트럭">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No13335NotSolved.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,28 +283,7 @@
       <option name="project" value="LOCAL" />
       <updated>1682489873019</updated>
     </task>
-    <task id="LOCAL-00027" summary="[BOJ] 1253 좋다">
-      <created>1682492508545</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1682492508545</updated>
-    </task>
-    <task id="LOCAL-00028" summary="[BOJ] 1253 좋다">
-      <created>1682492517473</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1682492517473</updated>
-    </task>
-    <task id="LOCAL-00029" summary="[BOJ] 11286 절댓값 힙">
-      <created>1682496384176</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1682496384176</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,9 +306,7 @@
     <MESSAGE value="20230419" />
     <MESSAGE value="[BOJ] 1043 거짓말" />
     <MESSAGE value="[BOJ] 13335 트럭" />
-    <MESSAGE value="[BOJ] 1253 좋다" />
-    <MESSAGE value="[BOJ] 11286 절댓값 힙" />
-    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 11286 절댓값 힙" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 13335 트럭" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -370,8 +348,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm_JAVA$Main.ic" NAME="Main Coverage Results" MODIFIED="1682751624895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
