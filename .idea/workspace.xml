@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 13335 트럭">
+    <list default="true" id="d290ce56-56c2-4981-8bf7-082f7f14e5fc" name="Changes" comment="[BOJ] 18429 근손실">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/No13335NotSolved.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No11066Better.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No1965.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/No1965.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No2103NotSolved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/No2103NotSolved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/No2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/No2178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +48,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2Nanc5rXRzMHmDAUngSPXnROKsB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -48,11 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hyun/Desktop/Algorithm-JAVA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -63,7 +82,7 @@
       <recent name="DataStructure" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.No1236">
     <configuration name="No1236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No1236" />
       <module name="Algorithm-JAVA" />
@@ -100,6 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679911138286</updated>
+      <workItem from="1700199972567" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="Synchronization">
       <created>1679911210509</created>
@@ -283,8 +303,46 @@
       <option name="project" value="LOCAL" />
       <updated>1682489873019</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="[BOJ] 1253 좋다">
+      <created>1682492508545</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1682492508545</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[BOJ] 1253 좋다">
+      <created>1682492517473</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682492517473</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[BOJ] 11286 절댓값 힙">
+      <created>1682496384176</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1682496384176</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[BOJ] 17413 단어 뒤집기 2">
+      <created>1689856961358</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1689856961358</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[BOJ] 18429 근손실">
+      <created>1689857746110</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1689857746110</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Synchronization" />
@@ -306,7 +364,11 @@
     <MESSAGE value="20230419" />
     <MESSAGE value="[BOJ] 1043 거짓말" />
     <MESSAGE value="[BOJ] 13335 트럭" />
-    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 13335 트럭" />
+    <MESSAGE value="[BOJ] 1253 좋다" />
+    <MESSAGE value="[BOJ] 11286 절댓값 힙" />
+    <MESSAGE value="[BOJ] 17413 단어 뒤집기 2" />
+    <MESSAGE value="[BOJ] 18429 근손실" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 18429 근손실" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,7 +408,15 @@
           <line>29</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/No18429.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm_JAVA$Main.ic" NAME="Main Coverage Results" MODIFIED="1682753197562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

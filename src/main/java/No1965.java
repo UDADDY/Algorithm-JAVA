@@ -21,6 +21,7 @@ public class No1965 {
         for (int i = 0; i < arr.length; i++) {
             dp[i] = 1;
 
+            //
             for (int j = 0; j < i; j++) {
                 if (arr[j] < arr[i]) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
@@ -33,3 +34,8 @@ public class No1965 {
         return max;
     }
 }
+
+/*
+1 1 2 3 2 4
+1 1 2 3 2 4
+ */
