@@ -1,0 +1,11 @@
+select
+    EXTRACT(HOUR FROM CAST(DATETIME AS TIMESTAMP)) AS HOUR,
+    COUNT(*) AS COUNT
+from ANIMAL_OUTS
+group by EXTRACT(HOUR FROM CAST(DATETIME AS TIMESTAMP))
+having HOUR >= 9 AND HOUR <= 19
+order by HOUR
+
+-- select 
+--     *
+-- from ANIMAL_OUTS
