@@ -1,16 +1,16 @@
 class Solution {
     int[] candidates;
     int N;
-    Set<List<Integer>> res;
+    List<List<Integer>> res;
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         this.candidates = candidates;
         this.N = candidates.length;
         Arrays.sort(candidates);
-        res = new HashSet<>();
+        res = new ArrayList<>();
 
         dfs(target, 0, new ArrayList<>());
 
-        return new ArrayList<>(res);
+        return res;
     }
 
     private void dfs(int target, int start, List<Integer> comb) {
