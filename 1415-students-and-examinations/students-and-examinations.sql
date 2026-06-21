@@ -2,10 +2,11 @@ select
     stu.student_id, 
     stu.student_name, 
     sub.subject_name,
-    case
-        when MAX(exam.student_id) is null then 0 
-        else count(*)
-    end as attended_exams
+    -- case
+    --     when MAX(exam.student_id) is null then 0 
+    --     else count(*)
+    -- end as attended_exams
+    count(exam.student_id) as attended_exams
 from Students stu
 cross join Subjects sub
 left join Examinations exam on stu.student_id = exam.student_id
